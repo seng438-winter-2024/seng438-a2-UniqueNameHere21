@@ -2,12 +2,12 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#:      |     |
+| Group 21:      |     |
 | -------------- | --- |
-| Student Names: |     |
-|                |     |
-|                |     |
-|                |     |
+| Student Names: |Mason     |
+|                |Samir     |
+|                |Nathan     |
+|                |Sanika     |
 
 # 1 Introduction
 
